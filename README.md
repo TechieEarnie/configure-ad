@@ -60,16 +60,40 @@ Install Active Directory Domain Services. Then setup a new forest as mydomain.co
 </p>
                                                                                                  
 CREATE AN ADMIN AND NORMAL USER ACCOUNG IN ACTIVE DIRECTORY
-JOIN CLIENT1 TO DOMAIN (MYDOMAIN.COM)
-SETUP REMOTE DESKTOP FOR NON-ADMINISTRATIVE USERS ON CLIENT 1
-CREATE MULTIPLE ADDITIONAL USERS AND ATTEMPT TO LOG INTO CLIENT1
-                                                                                               
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VpUKuwf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created a normal user named Jane Doe. Then added her to the ADMINS group.
+</p>
+
+JOIN CLIENT1 TO DOMAIN (MYDOMAIN.COM)
+
+<p>
+<img src="https://i.imgur.com/UiC09tQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/lLhwqIM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From the Azure portal, I set Client1's DNS settings to the DC's private Ip address..
+</p>
+
+
+SETUP REMOTE DESKTOP FOR NON-ADMINISTRATIVE USERS ON CLIENT 1
+
+<p>
+<img src="https://i.imgur.com/CK0jdba.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+CREATE MULTIPLE ADDITIONAL USERS TO CREATE A DATABASE OF USES
+                                                                                               
+<p>
+<img src="https://i.imgur.com/R6jRhtK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+To create 10000 additional randomly name uses, I used a script that would execute the solution.
 </p>
 <br />
 
