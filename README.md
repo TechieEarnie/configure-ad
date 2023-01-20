@@ -87,7 +87,7 @@ SETUP REMOTE DESKTOP FOR NON-ADMINISTRATIVE USERS ON CLIENT 1
 <img src="https://i.imgur.com/CK0jdba.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-CREATE MULTIPLE ADDITIONAL USERS TO CREATE A DATABASE OF USES
+CREATE MULTIPLE ADDITIONAL USERS TO CREATE A DATABASE OF USERS
                                                                                                
 <p>
 <img src="https://i.imgur.com/R6jRhtK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
